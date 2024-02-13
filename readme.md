@@ -24,3 +24,4 @@ The title element has been updated to provide a concise and descriptive title fo
 
   Credits
 This code refactor project is part of an HTML CSS Git challenge and was completed by Sumaila Mohammed.The original codebase was provided by Rutgers
+<img width="1710" alt="Screenshot 2024-02-12 at 9 51 17 PM" src="https://github.com/SumailaM/HTML-CSS-Git-Challenge-Code-Refactor/assets/142268062/28a3fc13-e0e8-4668-903e-b585982ddd53">
